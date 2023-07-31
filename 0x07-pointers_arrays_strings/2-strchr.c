@@ -6,8 +6,8 @@
  * @s: the string to be searched
  * @c: the character to be found
  *
- * Return:	a pointher to the first occurence of the character 'c'
- *		in the string 's', or NULL if the character is not found
+ * Return:a pointher to the first occurence of the character 'c'
+ * in the string 's', or NULL if the character is not found
 */
 
 char *_strchr(char *s, char c)
